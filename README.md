@@ -18,3 +18,5 @@ As because Whatsapp regularly makes an update, so we needs to always **use the l
 - Open browser and go to address `http://localhost:8000`
 - Scan the QR Code using whatsapp application
 - Enjoy!
+
+note : extract chatbot.rar and run it in browser (localhost/folder'sname) as the Chatbot's contents management website (based on CodeIgniter)
