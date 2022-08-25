@@ -11,7 +11,7 @@ As because Whatsapp regularly makes an update, so we needs to always **use the l
 ### How to use?
 
 - Clone or download this repo
-- import the sql file to your DBMS (such as phpmyadmin)
+- import the wa_api.sql file to your DBMS (such as phpmyadmin)
 - Enter to the project directory
 - Run `npm install`
 - Run `npm run start:dev`
