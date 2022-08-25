@@ -16,5 +16,5 @@ As because Whatsapp regularly makes an update, so we needs to always **use the l
 - Run `npm install`
 - Run `npm run start:dev`
 - Open browser and go to address `http://localhost:8000`
-- Scan the QR Code by Whatsapp application
+- Scan the QR Code using whatsapp application
 - Enjoy!
