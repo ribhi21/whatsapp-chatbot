@@ -2,7 +2,7 @@
 
 Hi, this is the whatsapp chatbot implementation for Bureau of Academic and Student Administration of Politeknik Caltex Riau from <a href="https://github.com/pedroslopez/whatsapp-web.js">whatsapp-web.js</a> by Pedro S. Lopez
 
-for more whatsapp api tutorials, you can visit by <a href="https://github.com/ngekoding/whatsapp-api-tutorial">ngekoding</a>
+for more whatsapp api tutorials, you can visit <a href="https://github.com/ngekoding/whatsapp-api-tutorial">ngekoding</a>
 
 ## Important thing!
 
